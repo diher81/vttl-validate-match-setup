@@ -1,0 +1,31 @@
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+out
+*.iws
+*.iml
+*.ipr
+
+### OS Junk ###
+.DS_Store
+
+### Maven ###
+target/
+
+### Class files ###
+*.class
+
+# Log file
+*.log
+
+node_modules/
+bin/
+obj/
