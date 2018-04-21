@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>gui</artifactId>
+    <artifactId>service</artifactId>
 
     <dependencies>
         <dependency>
@@ -18,12 +18,7 @@
         </dependency>
         <dependency>
             <groupId>be.diher81.vttl</groupId>
-            <artifactId>service</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>be.diher81.vttl</groupId>
             <artifactId>domain</artifactId>
         </dependency>
     </dependencies>
-
 </project>

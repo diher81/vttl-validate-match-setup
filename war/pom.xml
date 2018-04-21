@@ -9,12 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>gui</artifactId>
+    <artifactId>war</artifactId>
 
     <dependencies>
         <dependency>
-            <groupId>javax.inject</groupId>
-            <artifactId>javax.inject</artifactId>
+            <groupId>be.diher81.vttl</groupId>
+            <artifactId>gui</artifactId>
         </dependency>
         <dependency>
             <groupId>be.diher81.vttl</groupId>
@@ -25,5 +25,4 @@
             <artifactId>domain</artifactId>
         </dependency>
     </dependencies>
-
 </project>
