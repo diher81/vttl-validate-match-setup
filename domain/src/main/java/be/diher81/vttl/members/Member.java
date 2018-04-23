@@ -1,4 +1,4 @@
-package be.diher81.vttl.member;
+package be.diher81.vttl.members;
 
 import javax.inject.Named;
 
@@ -10,6 +10,6 @@ public class Member {
     private String firstName;
     private String lastName;
     private String ranking;
-    
+
 
 }
